@@ -43,10 +43,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sjpadgett/ccda-bb"
+    "url": "https://github.com/sjpadgett/blue-button-generate"
   },
   "keywords": [
     "bluebutton"
   ],
-  "homepage": "https://github.com/sjpadgett/ccda-bb"
+  "homepage": "https://github.com/sjpadgett/blue-button-generate"
 }
